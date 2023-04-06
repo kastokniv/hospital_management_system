@@ -12,8 +12,6 @@
 
         @include('admin.navbar')
 
-        @include('admin.body')
-
         @include('admin.script')
 
 </body>
